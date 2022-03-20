@@ -1,0 +1,3 @@
+AuthType SSLCERT
+Require user jtzhang mengjiao atimoshe jingyizz jxue zuoh srini_bs pramod
+ErrorDocument 401 /__scripts/needcerts
