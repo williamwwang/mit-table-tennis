@@ -18,7 +18,8 @@
 <td width="64%" valign="bottom" class="top"><em><strong><a href="index.html"><img src="IMAGES/MIT1.jpg" width="388" height="58" /></a> </strong></em></td>
 <td align="left" valign="baseline" class="top">
 <blockquote>
-<p>&nbsp;</p>
+<p style="font-family:verdana;font-size:10
+ px;color:red;">&nbsp;</p>
 </blockquote>
 </td>
 </tr>
@@ -31,7 +32,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="middlepicture">
 <tbody>
 <tr>
-<td width="571" valign="top"><img src="IMAGES/BridgeSolutions.JPG" width="581" height="214" /></td>
+<td width="571" valign="top"><img src="IMAGES/Pic 4.JPG" width="581" height="214" /></td>
 <td width="10" valign="top">&nbsp;</td>
 <td width="174" valign="top">
 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="rightbar">
@@ -49,10 +50,10 @@
 <td height="35" bgcolor="#6997D2" class="bottomwhiteborder"><a href="Tournament.html">Tournaments</a></td>
 </tr>
 <tr>
-<td height="35" bgcolor="79A4DA" class="bottomwhiteborder"><a href="JoinUs.html">Photo Gallery</a></td>
+<td height="35" bgcolor="79A4DA" class="bottomwhiteborder"><a href="Gallery_Club.html">Photo Gallery</a></td>
 </tr>
 <tr>
-<td height="36" bgcolor="#8BB2E3" style="padding-left:10px"><a href="ContactUs.html">Join / Contact Us</a></td>
+<td height="36" bgcolor="#8BB2E3" style="padding-left:10px"><a href="JoinUs.html">Join / Contact Us</a></td>
 </tr>
 </tbody>
 </table>
@@ -60,19 +61,28 @@
 </tr>
 </tbody>
 </table>
+
+
 <p>There are NO requirements to joining the table tennis club if you are an MIT student. All we ask is that
 you treat club property carefully and responsibly.</p>
 <p><strong>Joining the Table tennis club is quick and simple :</strong></p>
-<p>1) Email us at tt-officers@mit.edu expressing your interest to join. </br> 2) Go to this link (<a href="http://web.mit.edu/clubsports/officers/waivers.shtml">http://web.mit.edu/clubsports/officers/waivers.shtml</a>)<br /> 3) Download and complete the waiver form<br /> 4) Show up to a <a href="PracticeSchedule.html">practice session</a> and hand it over to any of the club officers.<br /> 5) You will receive an email confirming your membership</p>
+<p>1) Email us at tt-officers@mit.edu expressing your interest to join. </br> 2) Go to this link (<a href="https://www.dosportseasy.com/mitclubsports/">DoSportsEasy</a>) to complete the waiver form<br /> 3) Show up to a <a href="PracticeSchedule.html">practice session</a> and talk to any of the officers.<br /> 4) You will receive an email confirming your membership</p>
 <p><strong>Joining the table tennis team:</strong></p>
 <p>To join the table tennis team, please email the tt-officers@mit.edu with the following information:</p>
 <p><span style="font-family: verdana; color: blue; font-size: small;">Name<br /> Year (Freshman, Sophomore,etc)<br /> Date of Birth<br /> Rating<br /> Past experience</span></p>
-<span style="font-family: verdana; color: blue; font-size: small;">
-<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;">You will receive a response from us with further instructions.</span></p>
-<p>&nbsp;</p>
+</span style="font-family: verdana; color: blue; font-size: small;">
+<p>You will receive a response from our coach with further instructions.</span></p>
+
+<hr width='35%' align="left">
+
+<p>For any information regarding the club, please contact the club officers by emailing tt-officers@mit.edu. We are also usually available at the T-Club Lounge during practice hours, so feel free to drop by!</p>
+</td>
+</tr>
+<tr>
+<td>
+</br>
 <hr>
 <p><font color="gray"><font size="2">MIT Table Tennis Club. Maintained by Sherry Yang</a></font></p>
-</span></td>
 </tr>
 </tbody>
 </table>
